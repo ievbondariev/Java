@@ -1,6 +1,5 @@
 package lesson5.lesson;
 
-import lesson5.lesson.Animal;
 
 public class Cat extends Animal {
     @Override

@@ -1,7 +1,5 @@
 package lesson5.lesson;
 
-import lesson5.lesson.Animal;
-import lesson5.lesson.Cat;
 
 public class Main extends Animal {
     public static void main(String[] args) {
