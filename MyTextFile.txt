@@ -1,0 +1,4 @@
+Concat data to file
+Test
+My first file writer data saved to file
+My second string file writer data saved to file
